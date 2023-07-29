@@ -1,6 +1,7 @@
 import pandas as pd
-# import plotly.express as px
+import plotly.express as px
 import streamlit as st
+import openpyxl
 from streamlit_autorefresh import st_autorefresh #auto refresh data for streamlit 
 #pip install streamlit-autorefresh
 
